@@ -1,0 +1,11 @@
+Number of Texts: 563 (texts)
+
+Avg Precision for Rouge-1: 41.69%
+Avg Precision for Rouge-2: 22.58%
+Avg Precision for Rouge-3: 17.30%
+
+Number of texts in every 10% range of accuracy
+        |0%   |10%  |20%  |30%  |40%  |50%  |60%  |70%  |80%  |90%  |100% 
+ROUGE-1 |67   |11   |79   |151  |106  |49   |21   |14   |10   |28   |27   
+ROUGE-2 |260  |137  |49   |25   |10   |10   |6    |7    |11   |22   |26   
+ROUGE-3 |396  |56   |19   |10   |6    |6    |5    |7    |11   |21   |26   
